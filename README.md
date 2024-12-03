@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Chantakrak's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/cath-ly/github-readme-stats)
+[![Chantakrak's GitHub stats](https://github-readme-stats.vercel.app/api?username=cath-ly)](https://github.com/cath-ly/github-readme-stats)
 
 ## 🔭 I’m currently working on fun intermediate projects like API integration.
 ## 🌱 I’m currently learning NextJS, TypeScript, and React!
