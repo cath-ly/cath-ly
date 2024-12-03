@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<!--
-**cath-ly/cath-ly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
---!>
-
 [![Chantakrak's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/cath-ly/github-readme-stats)
 
 ## 🔭 I’m currently working on fun intermediate projects like API integration.
